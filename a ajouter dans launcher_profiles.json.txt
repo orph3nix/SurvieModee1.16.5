@@ -1,10 +1,10 @@
 "8b007b8962c1158d98bde01da7f71ad8" : {
       "created" : "2022-02-07T19:07:18.017Z",
-      "gameDir" : "C:\\Users\\orphe\\AppData\\Roaming\\.minecraftMod",
+      "gameDir" : "C:\\Users\\USER\\AppData\\Roaming\\.minecraftMod",
       "icon" : "Furnace",
-      "javaArgs" : "-Xmx12G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+      "javaArgs" : "-Xmx#@G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
       "lastUsed" : "2022-02-15T11:38:07.202Z",
       "lastVersionId" : "1.16.5-forge-36.2.26",
-      "name" : "",
+      "name" : "SurvieModee",
       "type" : "custom"
     },
